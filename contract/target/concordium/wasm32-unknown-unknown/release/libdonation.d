@@ -1,0 +1,1 @@
+/Users/lap14205/Documents/home/blockchain/concordium-task2/contract/target/concordium/wasm32-unknown-unknown/release/libdonation.rlib: /Users/lap14205/Documents/home/blockchain/concordium-task2/contract/src/lib.rs
